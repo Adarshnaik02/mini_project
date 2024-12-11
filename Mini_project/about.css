@@ -1,0 +1,65 @@
+.ab
+{
+    text-align: justify;
+}
+p
+{
+font-size: large;
+}
+ul
+{
+    font-size: large;
+}
+.logo
+{
+    width: 10%; 
+    height: auto;
+    
+}
+.main
+{
+    margin-right:90px ;
+    margin-left: 90px;
+}
+h1,h2
+{
+    text-align: center;
+}
+.resize
+{
+    width: 50%;
+    height: auto; 
+}
+.photo-row {
+    display: flex;
+    justify-content: space-between; 
+    gap: 5px; 
+}
+
+.resize {
+    width: 45%;
+    height: auto; 
+}
+.heading {
+    margin-bottom: 1px; 
+}
+.paragraph {
+    margin-top: 5px; 
+}
+body {
+    background-color: rgb(180, 202, 209);
+}
+.tab
+{
+    background-color: rgb(204, 247, 125);
+   border-width: 2px;
+   border-style: solid;
+   border-color: black;
+   margin-bottom: 5px;
+}
+.container {
+    display: flex; 
+    align-items: center; 
+    gap: 10px; 
+    align-items: center;
+}
